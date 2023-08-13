@@ -1,0 +1,11 @@
+# [汉服] 整体标签
+
+召唤朝代:
+  召唤唐风: hanfu, tang style outfits
+  召唤宋风: hanfu, song style outfits
+  召唤明风: hanfu, ming style outfits
+
+随机搭配:
+  随机唐风: '@1-6$$汉服_唐:常用:随机搭配@'
+  随机宋风: '@1-4$$汉服_宋:常用:随机搭配@'
+  随机明风: '@1-4$$汉服_明:常用:随机搭配@'
